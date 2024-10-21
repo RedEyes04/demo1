@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "23c97b868cc41a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4d65c83c32c369c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc59933b961a5293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/HelloWorld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HelloWorld"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5a860a6ee1f4f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "62f8fd9b227d1d55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce03d4753164af3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3e9defe1f18fde03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "addbe592752162a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e81ffb427d3a123",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc23cee07b441b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e01d7e4732bf247",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/HelloWorld.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "HelloWorld 的反向链接列表"
+            }
+          },
+          {
+            "id": "44cb643c76d293b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/HelloWorld.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "HelloWorld 的出链列表"
+            }
+          },
+          {
+            "id": "a7eeb81c64cf716e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e43144d3025fa935",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/HelloWorld.md"
+              },
+              "icon": "lucide-list",
+              "title": "HelloWorld 的大纲"
+            }
+          },
+          {
+            "id": "3314e2c9b1a63fc0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dc59933b961a5293",
+  "lastOpenFiles": [
+    "source/_posts/hello-world.md",
+    "source/_posts/HelloWorld.md",
+    "未命名.md",
+    "themes/anzhiyu",
+    "themes",
+    "source/_posts",
+    "source",
+    "scaffolds/post.md",
+    "scaffolds/page.md",
+    "scaffolds/draft.md",
+    "scaffolds",
+    "package.json",
+    "package-lock.json",
+    "_config.yml",
+    "_config.landscape.yml",
+    "_config.anzhiyu.yml",
+    "欢迎.md"
+  ]
+}
