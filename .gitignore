@@ -1,8 +1,7 @@
-.DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
-public/
-.deploy*/
-_multiconfig.yml
+# 忽略所有文件
+/*
+
+# 排除 source/_posts 目录下的文件
+!source/
+!source/_posts/
+!source/_posts/*
