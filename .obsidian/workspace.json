@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/HelloWorld.md",
+                "file": "source/_posts/Push-Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HelloWorld"
+              "title": "Push-Test"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/HelloWorld.md",
+                "file": "source/_posts/Push-Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "HelloWorld 的反向链接列表"
+              "title": "Push-Test 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/HelloWorld.md",
+                "file": "source/_posts/Push-Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "HelloWorld 的出链列表"
+              "title": "Push-Test 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/HelloWorld.md"
+                "file": "source/_posts/Push-Test.md"
               },
               "icon": "lucide-list",
-              "title": "HelloWorld 的大纲"
+              "title": "Push-Test 的大纲"
             }
           },
           {
@@ -176,7 +176,7 @@
   "active": "dc59933b961a5293",
   "lastOpenFiles": [
     "source/_posts/hello-world.md",
-    "source/_posts/HelloWorld.md",
+    "source/_posts/Push-Test.md",
     "未命名.md",
     "themes/anzhiyu",
     "themes",
