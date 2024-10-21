@@ -3,7 +3,7 @@ name: Deploy Hexo Blog
 on:
   push:
     branches:
-      - main  # 监听推送到 main 分支的操作
+      - master  # 监听推送到 master 分支的操作
     paths:
       - 'source/_posts/**'  # 只在 source/_posts 下的文件变化时触发
 
